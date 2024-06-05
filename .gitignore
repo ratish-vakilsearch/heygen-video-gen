@@ -1,0 +1,23 @@
+# Ignore environment variables file
+keys.env
+
+# Ignore vision configuration file
+data.json
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore temporary files and folders
+uploaded_files/
+
+# Ignore subdirectories within temp_folder (if needed)
+uploaded_files/*/
+
+# Ignore .xlsx files
+PISCIS Network Pvt Ltd Financials March 24 final (1).xlsx
+POD Presentation.xlsx
+
+# Ignore .pptx files
+VS - POD.pptx
